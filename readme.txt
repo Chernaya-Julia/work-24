@@ -1,0 +1,1 @@
+create-react-app react-test-app --template typescript

@@ -1,0 +1,1 @@
+export const truncate = (text, length = 5) => `${text.slice(0, length)}...`;
